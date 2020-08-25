@@ -6,8 +6,7 @@
       "properties": {
         "ID_1": 1,
         "NAME_1": "Abra",
-        "PROVINCE": "Abra",
-        "REGION": "Cordillera Administrative Region (CAR)"
+        "REGION": "Cordillera state"
       },
       "geometry": {
         "type": "Polygon",
@@ -77,7 +76,6 @@
       "properties": {
         "ID_1": 2,
         "NAME_1": "Agusan del Norte",
-        "PROVINCE": "Agusan del Norte",
         "REGION": "Surigao state"
       },
       "geometry": {
@@ -140,7 +138,6 @@
       "properties": {
         "ID_1": 3,
         "NAME_1": "Agusan del Sur",
-        "PROVINCE": "Agusan del Sur",
         "REGION": "Surigao state"
       },
       "geometry": {
@@ -229,8 +226,7 @@
       "properties": {
         "ID_1": 4,
         "NAME_1": "Aklan",
-        "PROVINCE": "Aklan",
-        "REGION": "Western Visayas (Region VI)"
+        "REGION": "Aklan state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -317,7 +313,6 @@
       "properties": {
         "ID_1": 5,
         "NAME_1": "Albay",
-        "PROVINCE": "Albay",
         "REGION": "Albay state"
       },
       "geometry": {
@@ -451,8 +446,7 @@
       "properties": {
         "ID_1": 6,
         "NAME_1": "Antique",
-        "PROVINCE": "Antique",
-        "REGION": "Western Visayas (Region VI)"
+        "REGION": "Aklan state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -585,8 +579,7 @@
       "properties": {
         "ID_1": 7,
         "NAME_1": "Apayao",
-        "PROVINCE": "Apayao",
-        "REGION": "Cordillera Administrative Region (CAR)"
+        "REGION": "Cordillera state"
       },
       "geometry": {
         "type": "Polygon",
@@ -653,8 +646,7 @@
       "properties": {
         "ID_1": 8,
         "NAME_1": "Aurora",
-        "PROVINCE": "Aurora",
-        "REGION": "Pampanga state"
+        "REGION": "Quirino state"
       },
       "geometry": {
         "type": "Polygon",
@@ -766,7 +758,6 @@
       "properties": {
         "ID_1": 9,
         "NAME_1": "Basilan",
-        "PROVINCE": "Basilan",
         "REGION": "Moro state"
       },
       "geometry": {
@@ -860,8 +851,7 @@
       "properties": {
         "ID_1": 10,
         "NAME_1": "Bataan",
-        "PROVINCE": "Bataan",
-        "REGION": "Pampanga state"
+        "REGION": "Zambales state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -929,8 +919,7 @@
       "properties": {
         "ID_1": 11,
         "NAME_1": "Batanes",
-        "PROVINCE": "Batanes",
-        "REGION": "Quirino state"
+        "REGION": "Ilocos state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -987,8 +976,7 @@
       "properties": {
         "ID_1": 12,
         "NAME_1": "Batangas",
-        "PROVINCE": "Batangas",
-        "REGION": "Laguna state"
+        "REGION": "Batangas state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1114,8 +1102,7 @@
       "properties": {
         "ID_1": 13,
         "NAME_1": "Benguet",
-        "PROVINCE": "Benguet",
-        "REGION": "Cordillera Administrative Region (CAR)"
+        "REGION": "Cordillera state"
       },
       "geometry": {
         "type": "Polygon",
@@ -1164,7 +1151,6 @@
       "properties": {
         "ID_1": 14,
         "NAME_1": "Biliran",
-        "PROVINCE": "Biliran",
         "REGION": "Leyte state"
       },
       "geometry": {
@@ -1214,7 +1200,6 @@
       "properties": {
         "ID_1": 15,
         "NAME_1": "Bohol",
-        "PROVINCE": "Bohol",
         "REGION": "Cebu state"
       },
       "geometry": {
@@ -1339,8 +1324,7 @@
       "properties": {
         "ID_1": 16,
         "NAME_1": "Bukidnon",
-        "PROVINCE": "Bukidnon",
-        "REGION": "Northern Mindanao (Region X)"
+        "REGION": "Bukidnon state"
       },
       "geometry": {
         "type": "Polygon",
@@ -1439,8 +1423,7 @@
       "properties": {
         "ID_1": 17,
         "NAME_1": "Bulacan",
-        "PROVINCE": "Bulacan",
-        "REGION": "Pampanga state"
+        "REGION": "Laguna state"
       },
       "geometry": {
         "type": "Polygon",
@@ -1501,7 +1484,6 @@
       "properties": {
         "ID_1": 18,
         "NAME_1": "Cagayan",
-        "PROVINCE": "Cagayan",
         "REGION": "Quirino state"
       },
       "geometry": {
@@ -1709,8 +1691,7 @@
       "properties": {
         "ID_1": 19,
         "NAME_1": "Camarines Norte",
-        "PROVINCE": "Camarines Norte",
-        "REGION": "Albay state"
+        "REGION": "Quezon state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1795,8 +1776,7 @@
       "properties": {
         "ID_1": 20,
         "NAME_1": "Camarines Sur",
-        "PROVINCE": "Camarines Sur",
-        "REGION": "Albay state"
+        "REGION": "Camarines state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1942,8 +1922,7 @@
       "properties": {
         "ID_1": 21,
         "NAME_1": "Camiguin",
-        "PROVINCE": "Camiguin",
-        "REGION": "Northern Mindanao (Region X)"
+        "REGION": "Bukidnon state"
       },
       "geometry": {
         "type": "Polygon",
@@ -1972,8 +1951,7 @@
       "properties": {
         "ID_1": 22,
         "NAME_1": "Capiz",
-        "PROVINCE": "Capiz",
-        "REGION": "Western Visayas (Region VI)"
+        "REGION": "Aklan state"
       },
       "geometry": {
         "type": "Polygon",
@@ -2051,8 +2029,7 @@
       "properties": {
         "ID_1": 23,
         "NAME_1": "Catanduanes",
-        "PROVINCE": "Catanduanes",
-        "REGION": "Albay state"
+        "REGION": "Camarines state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2132,8 +2109,7 @@
       "properties": {
         "ID_1": 24,
         "NAME_1": "Cavite",
-        "PROVINCE": "Cavite",
-        "REGION": "Laguna state"
+        "REGION": "Batangas state"
       },
       "geometry": {
         "type": "Polygon",
@@ -2186,7 +2162,6 @@
       "properties": {
         "ID_1": 25,
         "NAME_1": "Cebu",
-        "PROVINCE": "Cebu",
         "REGION": "Cebu state"
       },
       "geometry": {
@@ -2380,9 +2355,8 @@
       "type": "Feature",
       "properties": {
         "ID_1": 26,
-        "NAME_1": "Compostela Valley",
-        "PROVINCE": "Compostela Valley",
-        "REGION": "Davao Region (Region XI)"
+        "NAME_1": "Davao de Oro",
+        "REGION": "Davao state"
       },
       "geometry": {
         "type": "Polygon",
@@ -2447,12 +2421,7 @@
       "properties": {
         "ID_1": 27,
         "NAME_1": "Davao del Norte",
-        "NL_NAME_1": "",
-        "VARNAME_1": "Davao",
-        "TYPE_1": "Lalawigan|Probinsya",
-        "ENGTYPE_1": "Province",
-        "PROVINCE": "Davao del Norte",
-        "REGION": "Davao Region (Region XI)"
+        "REGION": "Davao state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2560,8 +2529,7 @@
       "properties": {
         "ID_1": 28,
         "NAME_1": "Davao del Sur",
-        "PROVINCE": "Davao del Sur",
-        "REGION": "Davao Region (Region XI)"
+        "REGION": "Davao state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2726,8 +2694,7 @@
       "properties": {
         "ID_1": 29,
         "NAME_1": "Davao Oriental",
-        "PROVINCE": "Davao Oriental",
-        "REGION": "Davao Region (Region XI)"
+        "REGION": "Davao state"
       },
       "geometry": {
         "type": "Polygon",
@@ -2854,7 +2821,6 @@
       "properties": {
         "ID_1": 30,
         "NAME_1": "Dinagat Islands",
-        "PROVINCE": "Dinagat Islands",
         "REGION": "Surigao state"
       },
       "geometry": {
@@ -2924,8 +2890,7 @@
       "properties": {
         "ID_1": 31,
         "NAME_1": "Eastern Samar",
-        "PROVINCE": "Eastern Samar",
-        "REGION": "Leyte state"
+        "REGION": "Samar state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3088,8 +3053,7 @@
       "properties": {
         "ID_1": 32,
         "NAME_1": "Guimaras",
-        "PROVINCE": "Guimaras",
-        "REGION": "Western Visayas (Region VI)"
+        "REGION": "Iloilo state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3141,8 +3105,7 @@
       "properties": {
         "ID_1": 33,
         "NAME_1": "Ifugao",
-        "PROVINCE": "Ifugao",
-        "REGION": "Cordillera Administrative Region (CAR)"
+        "REGION": "Cordillera state"
       },
       "geometry": {
         "type": "Polygon",
@@ -3198,8 +3161,7 @@
       "properties": {
         "ID_1": 34,
         "NAME_1": "Ilocos Norte",
-        "PROVINCE": "Ilocos Norte",
-        "REGION": "Ilocos Region (Region I)"
+        "REGION": "Ilocos state"
       },
       "geometry": {
         "type": "Polygon",
@@ -3277,8 +3239,7 @@
       "properties": {
         "ID_1": 35,
         "NAME_1": "Ilocos Sur",
-        "PROVINCE": "Ilocos Sur",
-        "REGION": "Ilocos Region (Region I)"
+        "REGION": "Cordillera state"
       },
       "geometry": {
         "type": "Polygon",
@@ -3371,8 +3332,7 @@
       "properties": {
         "ID_1": 36,
         "NAME_1": "Iloilo",
-        "PROVINCE": "Iloilo",
-        "REGION": "Western Visayas (Region VI)"
+        "REGION": "Iloilo state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3541,7 +3501,6 @@
       "properties": {
         "ID_1": 37,
         "NAME_1": "Isabela",
-        "PROVINCE": "Isabela",
         "REGION": "Quirino state"
       },
       "geometry": {
@@ -3632,8 +3591,7 @@
       "properties": {
         "ID_1": 38,
         "NAME_1": "Kalinga",
-        "PROVINCE": "Kalinga",
-        "REGION": "Cordillera Administrative Region (CAR)"
+        "REGION": "Cordillera state"
       },
       "geometry": {
         "type": "Polygon",
@@ -3688,8 +3646,7 @@
       "properties": {
         "ID_1": 39,
         "NAME_1": "La Union",
-        "PROVINCE": "La Union",
-        "REGION": "Ilocos Region (Region I)"
+        "REGION": "Lingayen state"
       },
       "geometry": {
         "type": "Polygon",
@@ -3747,7 +3704,6 @@
       "properties": {
         "ID_1": 40,
         "NAME_1": "Laguna",
-        "PROVINCE": "Laguna",
         "REGION": "Laguna state"
       },
       "geometry": {
@@ -3836,8 +3792,7 @@
       "properties": {
         "ID_1": 41,
         "NAME_1": "Lanao del Norte",
-        "PROVINCE": "Lanao del Norte",
-        "REGION": "Northern Mindanao (Region X)"
+        "REGION": "Bukidnon state"
       },
       "geometry": {
         "type": "Polygon",
@@ -3915,7 +3870,6 @@
       "properties": {
         "ID_1": 42,
         "NAME_1": "Lanao del Sur",
-        "PROVINCE": "Lanao del Sur",
         "REGION": "Moro state"
       },
       "geometry": {
@@ -4002,7 +3956,6 @@
       "properties": {
         "ID_1": 43,
         "NAME_1": "Leyte",
-        "PROVINCE": "Leyte",
         "REGION": "Leyte state"
       },
       "geometry": {
@@ -4124,7 +4077,6 @@
       "properties": {
         "ID_1": 44,
         "NAME_1": "Maguindanao",
-        "PROVINCE": "Maguindanao",
         "REGION": "Moro state"
       },
       "geometry": {
@@ -4228,7 +4180,6 @@
       "properties": {
         "ID_1": 45,
         "NAME_1": "Marinduque",
-        "PROVINCE": "Marinduque",
         "REGION": "Quezon state"
       },
       "geometry": {
@@ -4276,7 +4227,6 @@
       "properties": {
         "ID_1": 46,
         "NAME_1": "Masbate",
-        "PROVINCE": "Masbate",
         "REGION": "Albay state"
       },
       "geometry": {
@@ -4467,8 +4417,7 @@
       "properties": {
         "ID_1": 47,
         "NAME_1": "Metropolitan Manila",
-        "PROVINCE": "Metropolitan Manila",
-        "REGION": "Metropolitan Manila"
+        "REGION": "NCR"
       },
       "geometry": {
         "type": "Polygon",
@@ -4515,8 +4464,7 @@
       "properties": {
         "ID_1": 48,
         "NAME_1": "Misamis Occidental",
-        "PROVINCE": "Misamis Occidental",
-        "REGION": "Northern Mindanao (Region X)"
+        "REGION": "Lanao state"
       },
       "geometry": {
         "type": "Polygon",
@@ -4561,8 +4509,7 @@
       "properties": {
         "ID_1": 49,
         "NAME_1": "Misamis Oriental",
-        "PROVINCE": "Misamis Oriental",
-        "REGION": "Northern Mindanao (Region X)"
+        "REGION": "Bukidnon state"
       },
       "geometry": {
         "type": "Polygon",
@@ -4660,8 +4607,7 @@
       "properties": {
         "ID_1": 50,
         "NAME_1": "Mountain Province",
-        "PROVINCE": "Mountain Province",
-        "REGION": "Cordillera Administrative Region (CAR)"
+        "REGION": "Cordillera state"
       },
       "geometry": {
         "type": "Polygon",
@@ -4718,8 +4664,7 @@
       "properties": {
         "ID_1": 51,
         "NAME_1": "Negros Occidental",
-        "PROVINCE": "Negros Occidental",
-        "REGION": "Western Visayas (Region VI)"
+        "REGION": "Iloilo state"
       },
       "geometry": {
         "type": "Polygon",
@@ -4830,7 +4775,6 @@
       "properties": {
         "ID_1": 52,
         "NAME_1": "Negros Oriental",
-        "PROVINCE": "Negros Oriental",
         "REGION": "Cebu state"
       },
       "geometry": {
@@ -4911,7 +4855,6 @@
       "properties": {
         "ID_1": 53,
         "NAME_1": "North Cotabato",
-        "PROVINCE": "North Cotabato",
         "REGION": "Saranggani state"
       },
       "geometry": {
@@ -5031,8 +4974,7 @@
       "properties": {
         "ID_1": 54,
         "NAME_1": "Northern Samar",
-        "PROVINCE": "Northern Samar",
-        "REGION": "Leyte state"
+        "REGION": "Samar state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5188,7 +5130,6 @@
       "properties": {
         "ID_1": 55,
         "NAME_1": "Nueva Ecija",
-        "PROVINCE": "Nueva Ecija",
         "REGION": "Pampanga state"
       },
       "geometry": {
@@ -5266,7 +5207,6 @@
       "properties": {
         "ID_1": 56,
         "NAME_1": "Nueva Vizcaya",
-        "PROVINCE": "Nueva Vizcaya",
         "REGION": "Quirino state"
       },
       "geometry": {
@@ -5328,8 +5268,7 @@
       "properties": {
         "ID_1": 57,
         "NAME_1": "Occidental Mindoro",
-        "PROVINCE": "Occidental Mindoro",
-        "REGION": "Quezon state"
+        "REGION": "Palawan state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5490,7 +5429,7 @@
         "ID_1": 58,
         "NAME_1": "Oriental Mindoro",
         "PROVINCE": "Oriental Mindoro",
-        "REGION": "Quezon state"
+        "REGION": "Palawan state"
       },
       "geometry": {
         "type": "Polygon",
@@ -5570,12 +5509,7 @@
       "properties": {
         "ID_1": 59,
         "NAME_1": "Palawan",
-        "NL_NAME_1": "",
-        "VARNAME_1": "Paragua",
-        "TYPE_1": "Lalawigan|Probinsya",
-        "ENGTYPE_1": "Province",
-        "PROVINCE": "Palawan",
-        "REGION": "Quezon state"
+        "REGION": "Palawan state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6258,7 +6192,6 @@
       "properties": {
         "ID_1": 60,
         "NAME_1": "Pampanga",
-        "PROVINCE": "Pampanga",
         "REGION": "Pampanga state"
       },
       "geometry": {
@@ -6324,8 +6257,7 @@
       "properties": {
         "ID_1": 61,
         "NAME_1": "Pangasinan",
-        "PROVINCE": "Pangasinan",
-        "REGION": "Ilocos Region (Region I)"
+        "REGION": "Lingayen state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6460,7 +6392,7 @@
       "properties": {
         "ID_1": 62,
         "NAME_1": "Quezon",
-        "REGION": "Laguna state"
+        "REGION": "Quezon state"
       },
       "geometry": {
         "type": "MultiPolygon",

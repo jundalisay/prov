@@ -2529,7 +2529,7 @@
       "properties": {
         "ID_1": 28,
         "NAME_1": "Davao del Sur",
-        "REGION": "Davao state"
+        "REGION": "Kidapawan state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3646,7 +3646,7 @@
       "properties": {
         "ID_1": 39,
         "NAME_1": "La Union",
-        "REGION": "Lingayen state"
+        "REGION": "Pangasinan state"
       },
       "geometry": {
         "type": "Polygon",
@@ -3792,7 +3792,7 @@
       "properties": {
         "ID_1": 41,
         "NAME_1": "Lanao del Norte",
-        "REGION": "Bukidnon state"
+        "REGION": "Misamis state"
       },
       "geometry": {
         "type": "Polygon",
@@ -4464,7 +4464,7 @@
       "properties": {
         "ID_1": 48,
         "NAME_1": "Misamis Occidental",
-        "REGION": "Lanao state"
+        "REGION": "Misamis state"
       },
       "geometry": {
         "type": "Polygon",
@@ -4855,7 +4855,7 @@
       "properties": {
         "ID_1": 53,
         "NAME_1": "North Cotabato",
-        "REGION": "Saranggani state"
+        "REGION": "Kidapawan state"
       },
       "geometry": {
         "type": "Polygon",
@@ -5268,7 +5268,7 @@
       "properties": {
         "ID_1": 57,
         "NAME_1": "Occidental Mindoro",
-        "REGION": "Palawan state"
+        "REGION": "Mindoro state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5429,7 +5429,7 @@
         "ID_1": 58,
         "NAME_1": "Oriental Mindoro",
         "PROVINCE": "Oriental Mindoro",
-        "REGION": "Palawan state"
+        "REGION": "Mindoro state"
       },
       "geometry": {
         "type": "Polygon",
@@ -5509,7 +5509,7 @@
       "properties": {
         "ID_1": 59,
         "NAME_1": "Palawan",
-        "REGION": "Palawan state"
+        "REGION": "Mindoro state"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6257,7 +6257,7 @@
       "properties": {
         "ID_1": 61,
         "NAME_1": "Pangasinan",
-        "REGION": "Lingayen state"
+        "REGION": "Pangasinan state"
       },
       "geometry": {
         "type": "MultiPolygon",
